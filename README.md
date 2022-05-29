@@ -1,4 +1,6 @@
-#Overview of Analysis
+Overview of Analysis
+
+The purpose of this analysis is to examine the Citi Bike rider data in New York City to gain valuable insights into who our primary customers are. We'll use this information to create a preliminary analysis for when we implement the same service in Des Moines. 
 
 Results
 
