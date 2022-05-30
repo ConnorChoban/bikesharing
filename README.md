@@ -4,7 +4,7 @@ The purpose of this analysis is to examine the Citi Bike rider data in New York 
 
 ## Results
 
-Note: the story for this module can be found here: 
+Note: the story for this module can be found here: https://public.tableau.com/app/profile/connor.choban/viz/CitiBikeDataProject-CC/TripData
 
 
 ### Checkout Times for Users
