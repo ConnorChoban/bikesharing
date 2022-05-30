@@ -35,14 +35,14 @@ From the data in this heatmap, we can arrive to the same conclusions made in the
 
 <img width="1330" alt="Screen Shot 2022-05-29 at 3 23 41 AM" src="https://user-images.githubusercontent.com/99847786/170893072-d6a7e29d-075b-42cb-ae97-a3e06ef69a13.png">
 
+<img width="1172" alt="Screen Shot 2022-05-29 at 10 15 40 PM" src="https://user-images.githubusercontent.com/99847786/170915105-156913b9-5ac4-4466-96fa-39ae19c4af16.png">
+
 
 ### User Trips by Gender by Day
 
 This chart summarizes the data in the two previous heatmaps but separates subscribers and customers. We can see that new or unsubscribed customers from a greater porportion of renters on the weekends than during weekdays, whereas subscribers tend to form a much greater porportion during the week, with the bulk of rentals ocurring from Monday-Tuesday, and Thrusday-Friday, with a noticeable gap on Wednesday. It might be worth it to investigate why there's a drop in rentals on Wednesday.
 
 <img width="1324" alt="Screen Shot 2022-05-29 at 3 37 43 AM" src="https://user-images.githubusercontent.com/99847786/170893076-4e0bd2ed-549e-4532-962b-51dc9e7eb104.png">
-
-<img width="1172" alt="Screen Shot 2022-05-29 at 10 15 40 PM" src="https://user-images.githubusercontent.com/99847786/170915059-f6cfa7dc-33ce-4613-8e70-9c72b1731f60.png">
 
 
 ### Bike Usage
