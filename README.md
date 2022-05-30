@@ -57,3 +57,13 @@ Finally, in the chart below we see the total amount of rides per day. This can h
 
 
 ## Summary
+
+By analyzing the data, we can come to a few key conclusions. 
+
+- Men are far more likely than women to rent a bicycle, so it would stand to reason to either focus marketing efforts on accomodating men, or conversely focus efforts on attracting more women to rent a bicycle. 
+
+- The majority of rentals happen during weekday morning hours (from 5AM to 9 AM), and afternoon and evening hours (from 3 PM to 8 PM). Thus it may be wise to provide additional bicycles to meet demand, and agend repairs for outside this time block. 
+
+- The majority of rentals are short in duration, with more than half being 20 minutes or less. Therefore, we should adjust our business strategy to accomdate shorter rental periods. 
+
+Two additional visualizations that could be used with this data set could be a map showing which areas have the highest rental rates, such as the one we created in this module. We could also use a heatmap or bar chart to evaluate the relationship between age and the number of users. 
